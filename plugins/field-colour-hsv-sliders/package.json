@@ -59,6 +59,6 @@
     "extends": "@blockly/eslint-config"
   },
   "engines": {
-    "node": "16.x"
-  }  
+    "node": ">=8.0.0"
+  }
 }
